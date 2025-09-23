@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp add:*)",
+      "Bash(claude mcp:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:remix.run)",
+      "Bash(npx create-react-router:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
