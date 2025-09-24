@@ -1,12 +1,124 @@
-body {
-  font-family:
-    -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
-    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Default Light Theme */
+  :root {
+    --background: 218 32% 98%;
+    --foreground: 224 47% 12%;
+    --card: 0 0% 100%;
+    --card-foreground: 224 47% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 224 47% 12%;
+    --primary: 245 66% 55%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 217 36% 92%;
+    --secondary-foreground: 224 39% 22%;
+    --accent: 206 92% 95%;
+    --accent-foreground: 214 68% 18%;
+    --muted: 217 24% 88%;
+    --muted-foreground: 220 15% 38%;
+    --border: 218 23% 86%;
+    --input: 218 23% 86%;
+    --ring: 245 66% 55%;
+    --destructive: 4 82% 55%;
+    --destructive-foreground: 0 0% 100%;
+    --radius: 0.75rem;
+  }
+
+  /* Dark Theme */
+  .dark {
+    --background: 226 46% 6%;
+    --foreground: 218 40% 94%;
+    --card: 226 46% 8%;
+    --card-foreground: 218 40% 94%;
+    --popover: 226 46% 8%;
+    --popover-foreground: 218 40% 94%;
+    --primary: 245 68% 72%;
+    --primary-foreground: 236 83% 8%;
+    --secondary: 224 28% 16%;
+    --secondary-foreground: 218 40% 94%;
+    --accent: 202 83% 18%;
+    --accent-foreground: 198 94% 88%;
+    --muted: 224 24% 18%;
+    --muted-foreground: 220 15% 65%;
+    --border: 226 30% 18%;
+    --input: 226 30% 18%;
+    --ring: 245 68% 72%;
+    --destructive: 4 82% 55%;
+    --destructive-foreground: 0 0% 100%;
+  }
+
+  /* Ocean Theme */
+  .theme-ocean {
+    --background: 196 38% 97%;
+    --foreground: 200 60% 12%;
+    --card: 0 0% 100%;
+    --card-foreground: 200 60% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 200 60% 12%;
+    --primary: 193 90% 44%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 196 32% 90%;
+    --secondary-foreground: 200 45% 18%;
+    --accent: 187 100% 94%;
+    --accent-foreground: 198 71% 16%;
+    --muted: 200 24% 88%;
+    --muted-foreground: 201 14% 40%;
+    --border: 198 24% 82%;
+    --input: 198 24% 82%;
+    --ring: 193 90% 44%;
+  }
+
+  /* Forest Theme */
+  .theme-forest {
+    --background: 132 28% 97%;
+    --foreground: 132 41% 14%;
+    --card: 0 0% 100%;
+    --card-foreground: 132 41% 14%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 132 41% 14%;
+    --primary: 144 51% 36%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 140 28% 88%;
+    --secondary-foreground: 132 35% 20%;
+    --accent: 150 40% 90%;
+    --accent-foreground: 142 32% 22%;
+    --muted: 140 18% 86%;
+    --muted-foreground: 134 14% 42%;
+    --border: 140 18% 80%;
+    --input: 140 18% 80%;
+    --ring: 144 51% 36%;
+  }
+
+  /* Sunset Theme */
+  .theme-sunset {
+    --background: 26 45% 97%;
+    --foreground: 28 56% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 28 56% 15%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 28 56% 15%;
+    --primary: 22 94% 53%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 26 38% 90%;
+    --secondary-foreground: 28 44% 22%;
+    --accent: 16 84% 94%;
+    --accent-foreground: 18 62% 24%;
+    --muted: 24 24% 88%;
+    --muted-foreground: 26 16% 42%;
+    --border: 26 22% 82%;
+    --input: 26 22% 82%;
+    --ring: 22 94% 53%;
+  }
 }
 
-code {
-  font-family:
-    source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
 }

@@ -6,7 +6,21 @@
       "WebSearch",
       "WebFetch(domain:github.com)",
       "WebFetch(domain:remix.run)",
-      "Bash(npx create-react-router:*)"
+      "Bash(npx create-react-router:*)",
+      "Bash(npm install:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npx tailwindcss init:*)",
+      "Bash(npx:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run build:*)",
+      "mcp__context7__resolve-library-id",
+      "WebFetch(domain:ui.shadcn.com)",
+      "Bash(cp:*)",
+      "Bash(rm:*)",
+      "Bash(npm update)",
+      "mcp__ide__getDiagnostics",
+      "Read(//e/**)",
+      "WebFetch(domain:cdn.dribbble.com)"
     ],
     "deny": [],
     "ask": []

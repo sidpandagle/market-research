@@ -1,0 +1,288 @@
+{
+  "reports": [
+    {
+      "id": "ai-market-global-2024",
+      "title": "Global Artificial Intelligence Market Report 2024-2030",
+      "slug": "global-artificial-intelligence-market-2024-2030",
+      "description": "Comprehensive analysis of the global AI market including market size, growth drivers, competitive landscape, and future opportunities across various industry verticals.",
+      "category": {
+        "id": "artificial-intelligence",
+        "name": "Artificial Intelligence",
+        "description": "AI, machine learning, and automation technologies"
+      },
+      "subcategory": "Machine Learning",
+      "publishDate": "2024-01-15",
+      "lastUpdated": "2024-03-01",
+      "author": {
+        "name": "Dr. Sarah Chen",
+        "title": "Senior Technology Analyst",
+        "company": "TechInsights Research"
+      },
+      "executiveSummary": "The global artificial intelligence market is experiencing unprecedented growth, driven by increasing adoption across healthcare, finance, and manufacturing sectors. Our analysis projects the market will reach $1.8 trillion by 2030, representing a CAGR of 38.1% from 2024.",
+      "keyFindings": [
+        "Healthcare AI applications showing highest growth rate at 42% CAGR",
+        "North America continues to dominate with 45% market share",
+        "Enterprise AI adoption increased by 67% in 2023",
+        "Generative AI represents fastest-growing segment",
+        "Regulatory frameworks evolving rapidly in EU and US"
+      ],
+      "marketSize": {
+        "current": "$136.6 billion",
+        "projected": "$1.8 trillion",
+        "cagr": "38.1%",
+        "timeframe": "2024-2030"
+      },
+      "geography": ["North America", "Europe", "Asia-Pacific", "Latin America", "Middle East & Africa"],
+      "companies": ["OpenAI", "Google", "Microsoft", "NVIDIA", "IBM", "Amazon", "Meta", "Anthropic", "Palantir", "C3.ai"],
+      "tags": ["AI", "Machine Learning", "Deep Learning", "Neural Networks", "Automation", "Digital Transformation"],
+      "price": {
+        "amount": 4999,
+        "currency": "USD",
+        "type": "single"
+      },
+      "pages": 287,
+      "format": ["PDF", "Excel", "PowerPoint"],
+      "featured": true,
+      "methodology": "Primary research with 500+ industry executives, secondary research analysis, and proprietary market modeling",
+      "dataScope": {
+        "historicalData": "2019-2023",
+        "forecastPeriod": "2024-2030",
+        "geographicScope": ["Global", "Regional", "Country-level"],
+        "companies": 150,
+        "dataSources": ["Industry interviews", "Company financials", "Government data", "Trade associations"]
+      },
+      "relatedReports": ["cloud-computing-market-2024", "cybersecurity-ai-2024"]
+    },
+    {
+      "id": "ev-market-analysis-2024",
+      "title": "Electric Vehicle Market Analysis: Trends and Opportunities 2024-2029",
+      "slug": "electric-vehicle-market-analysis-2024-2029",
+      "description": "In-depth analysis of the global electric vehicle market covering passenger cars, commercial vehicles, charging infrastructure, and battery technology developments.",
+      "category": {
+        "id": "electric-vehicles",
+        "name": "Electric Vehicles",
+        "description": "EV market, charging infrastructure, and battery technology"
+      },
+      "subcategory": "Passenger Vehicles",
+      "publishDate": "2024-02-10",
+      "author": {
+        "name": "Michael Rodriguez",
+        "title": "Automotive Industry Specialist",
+        "company": "Mobility Research Group"
+      },
+      "executiveSummary": "The electric vehicle market is undergoing rapid transformation with improving battery technology, expanding charging infrastructure, and supportive government policies driving mass adoption. We forecast global EV sales to reach 31.1 million units by 2029.",
+      "keyFindings": [
+        "China maintains leadership with 60% of global EV production",
+        "Battery costs decreased by 15% year-over-year in 2023",
+        "Public charging stations increased by 55% globally",
+        "Tesla's market share declined to 18% as competition intensifies",
+        "Commercial EV segment showing accelerated adoption"
+      ],
+      "marketSize": {
+        "current": "$388.1 billion",
+        "projected": "$1.7 trillion",
+        "cagr": "22.8%",
+        "timeframe": "2024-2029"
+      },
+      "geography": ["China", "United States", "Europe", "Japan", "South Korea", "India"],
+      "companies": ["Tesla", "BYD", "Volkswagen Group", "Stellantis", "General Motors", "Ford", "Rivian", "Lucid Motors", "NIO", "XPeng"],
+      "tags": ["Electric Vehicles", "EV Batteries", "Charging Infrastructure", "Sustainability", "Clean Energy", "Automotive"],
+      "price": {
+        "amount": 3799,
+        "currency": "USD",
+        "type": "single"
+      },
+      "pages": 245,
+      "format": ["PDF", "Excel"],
+      "featured": true,
+      "methodology": "Analysis of vehicle sales data, battery supply chain research, charging infrastructure mapping, and interviews with industry stakeholders",
+      "dataScope": {
+        "historicalData": "2020-2023",
+        "forecastPeriod": "2024-2029",
+        "geographicScope": ["Global", "Regional breakdown"],
+        "companies": 85,
+        "dataSources": ["OEM sales data", "Government registrations", "Charging network operators", "Battery manufacturers"]
+      }
+    },
+    {
+      "id": "cybersecurity-market-2024",
+      "title": "Cybersecurity Market Report: Emerging Threats and Solutions 2024",
+      "slug": "cybersecurity-market-emerging-threats-2024",
+      "description": "Comprehensive analysis of the cybersecurity market including threat landscape, security solutions, vendor ecosystem, and investment trends in response to evolving cyber risks.",
+      "category": {
+        "id": "cybersecurity",
+        "name": "Cybersecurity",
+        "description": "Information security, data protection, and cyber defense"
+      },
+      "subcategory": "Enterprise Security",
+      "publishDate": "2024-01-28",
+      "author": {
+        "name": "Jennifer Wu",
+        "title": "Cybersecurity Research Director",
+        "company": "SecureAnalytics"
+      },
+      "executiveSummary": "The cybersecurity market continues rapid expansion as organizations face increasingly sophisticated threats. AI-powered security solutions and zero-trust architectures are driving market growth, with global spending expected to reach $267 billion by 2025.",
+      "keyFindings": [
+        "Ransomware attacks increased by 41% in 2023",
+        "Zero-trust security adoption grew by 28% among enterprises",
+        "AI-powered security tools market expanding at 35% CAGR",
+        "Cloud security represents fastest-growing segment",
+        "Cybersecurity skills gap reached 3.5 million professionals"
+      ],
+      "marketSize": {
+        "current": "$173.5 billion",
+        "projected": "$267.3 billion",
+        "cagr": "9.0%",
+        "timeframe": "2024-2025"
+      },
+      "geography": ["North America", "Europe", "Asia-Pacific", "Rest of World"],
+      "companies": ["Palo Alto Networks", "CrowdStrike", "Fortinet", "Check Point", "Cisco", "Microsoft", "SentinelOne", "Zscaler", "Okta", "Splunk"],
+      "tags": ["Cybersecurity", "AI Security", "Zero Trust", "Cloud Security", "Threat Intelligence", "Data Protection"],
+      "price": {
+        "amount": 2999,
+        "currency": "USD",
+        "type": "single"
+      },
+      "pages": 198,
+      "format": ["PDF", "PowerPoint"],
+      "featured": false,
+      "methodology": "Survey of 800+ CISOs, threat intelligence analysis, vendor interviews, and market sizing analysis",
+      "dataScope": {
+        "historicalData": "2021-2023",
+        "forecastPeriod": "2024-2025",
+        "geographicScope": ["Global", "Regional analysis"],
+        "companies": 120,
+        "dataSources": ["CISO surveys", "Threat databases", "Vendor financials", "Industry reports"]
+      }
+    },
+    {
+      "id": "fintech-digital-banking-2024",
+      "title": "FinTech Revolution: Digital Banking and Payment Innovation 2024",
+      "slug": "fintech-digital-banking-payment-innovation-2024",
+      "description": "Analysis of the fintech landscape focusing on digital banking, payment technologies, regulatory changes, and the competitive dynamics between traditional banks and fintech startups.",
+      "category": {
+        "id": "fintech",
+        "name": "FinTech",
+        "description": "Financial technology and digital banking solutions"
+      },
+      "subcategory": "Digital Banking",
+      "publishDate": "2024-03-05",
+      "author": {
+        "name": "David Kim",
+        "title": "Financial Services Analyst",
+        "company": "FinanceForward Research"
+      },
+      "executiveSummary": "The fintech sector continues to disrupt traditional financial services with innovative solutions in digital banking, payments, and lending. Despite regulatory challenges, fintech investment remains strong with $164 billion in global funding in 2023.",
+      "keyFindings": [
+        "Digital-only banks gained 15 million new customers in 2023",
+        "Buy-now-pay-later market reached $24.2 billion globally",
+        "Central bank digital currencies (CBDCs) piloted in 14 countries",
+        "Embedded finance revenue projected to reach $622 billion by 2025",
+        "RegTech solutions adoption increased by 32% among financial institutions"
+      ],
+      "marketSize": {
+        "current": "$340.1 billion",
+        "projected": "$882.3 billion",
+        "cagr": "20.3%",
+        "timeframe": "2024-2028"
+      },
+      "geography": ["United States", "United Kingdom", "Singapore", "Germany", "Brazil", "India", "China"],
+      "companies": ["Stripe", "Square", "PayPal", "Adyen", "Klarna", "Revolut", "Nubank", "Chime", "SoFi", "Affirm"],
+      "tags": ["FinTech", "Digital Banking", "Payments", "BNPL", "RegTech", "Embedded Finance", "CBDC"],
+      "price": {
+        "amount": 3299,
+        "currency": "USD",
+        "type": "single"
+      },
+      "pages": 156,
+      "format": ["PDF", "Excel"],
+      "featured": true
+    },
+    {
+      "id": "renewable-energy-outlook-2024",
+      "title": "Renewable Energy Market Outlook: Solar, Wind, and Storage 2024-2030",
+      "slug": "renewable-energy-market-outlook-2024-2030",
+      "description": "Comprehensive analysis of renewable energy markets including solar photovoltaic, wind power, energy storage systems, and grid integration challenges and opportunities.",
+      "category": {
+        "id": "renewable-energy",
+        "name": "Renewable Energy",
+        "description": "Solar, wind, hydroelectric, and other clean energy sources"
+      },
+      "subcategory": "Solar Energy",
+      "publishDate": "2024-02-20",
+      "author": {
+        "name": "Elena Petrov",
+        "title": "Clean Energy Research Lead",
+        "company": "GreenTech Analytics"
+      },
+      "executiveSummary": "Renewable energy deployment accelerated in 2023 with record-breaking capacity additions. Solar and wind power costs continue to decline while energy storage becomes increasingly critical for grid stability and renewable energy integration.",
+      "keyFindings": [
+        "Global renewable capacity increased by 295 GW in 2023",
+        "Solar PV costs declined by 12% year-over-year",
+        "Energy storage market grew by 62% in 2023",
+        "Offshore wind projects reached 116 GW globally",
+        "Green hydrogen production costs dropped below $3/kg in optimal locations"
+      ],
+      "marketSize": {
+        "current": "$1.1 trillion",
+        "projected": "$2.8 trillion",
+        "cagr": "16.8%",
+        "timeframe": "2024-2030"
+      },
+      "geography": ["China", "United States", "India", "Brazil", "Germany", "Japan", "Australia"],
+      "companies": ["Tesla Energy", "BYD", "JinkoSolar", "Vestas", "Siemens Gamesa", "First Solar", "Canadian Solar", "Orsted", "NextEra Energy", "Enphase Energy"],
+      "tags": ["Renewable Energy", "Solar Power", "Wind Energy", "Energy Storage", "Grid Integration", "Clean Technology"],
+      "price": {
+        "amount": 4199,
+        "currency": "USD",
+        "type": "single"
+      },
+      "pages": 312,
+      "format": ["PDF", "Excel", "PowerPoint"],
+      "featured": false
+    },
+    {
+      "id": "digital-health-telemedicine-2024",
+      "title": "Digital Health and Telemedicine Market: Post-Pandemic Growth 2024",
+      "slug": "digital-health-telemedicine-post-pandemic-2024",
+      "description": "Analysis of digital health market evolution including telemedicine adoption, remote patient monitoring, digital therapeutics, and healthcare AI applications following the COVID-19 pandemic.",
+      "category": {
+        "id": "digital-health",
+        "name": "Digital Health",
+        "description": "Telemedicine, health apps, and digital therapeutics"
+      },
+      "subcategory": "Telemedicine",
+      "publishDate": "2024-01-12",
+      "author": {
+        "name": "Dr. Maria Santos",
+        "title": "Healthcare Technology Analyst",
+        "company": "HealthTech Insights"
+      },
+      "executiveSummary": "The digital health market has matured beyond pandemic-driven growth, with sustainable adoption patterns emerging across telemedicine, remote monitoring, and AI-powered diagnostics. Market consolidation and regulatory clarity are shaping the industry's future.",
+      "keyFindings": [
+        "Telemedicine utilization stabilized at 38x pre-pandemic levels",
+        "Remote patient monitoring market grew by 26% in 2023",
+        "Digital therapeutics received 23 FDA approvals in 2023",
+        "Healthcare AI applications expanded into 67% of health systems",
+        "Mental health apps saw 45% increase in active users"
+      ],
+      "marketSize": {
+        "current": "$659.8 billion",
+        "projected": "$2.9 trillion",
+        "cagr": "28.1%",
+        "timeframe": "2024-2030"
+      },
+      "geography": ["United States", "China", "Germany", "United Kingdom", "Japan", "Canada", "Australia"],
+      "companies": ["Teladoc Health", "Amwell", "Doxy.me", "Philips Healthcare", "GE Healthcare", "Epic Systems", "Cerner", "Athenahealth", "Babylon Health", "Veracyte"],
+      "tags": ["Digital Health", "Telemedicine", "Remote Monitoring", "Healthcare AI", "Digital Therapeutics", "mHealth"],
+      "price": {
+        "amount": 2799,
+        "currency": "USD",
+        "type": "single"
+      },
+      "pages": 203,
+      "format": ["PDF"],
+      "featured": false
+    }
+  ]
+}
